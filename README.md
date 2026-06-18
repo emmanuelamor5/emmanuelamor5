@@ -28,12 +28,12 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?emmanuelamor5=YOUR-GITHUB-emmanuelamor5&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelamor5&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?emmanuelamor5=YOUR-GITHUB-emmanuelamor5&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelamor5&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?emmanuelamor5=YOUR-GITHUB-emmanuelamor5&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelamor5&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 </p>
 
