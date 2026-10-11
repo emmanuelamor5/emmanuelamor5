@@ -28,12 +28,10 @@ I am a final-year Computing student at Strathmore University who builds machine 
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Github" />
-  <img src="https://shields.io" alt="React Badge" />
+  <img src="https://shields.io" alt="React" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://shields.io" alt="Google Colab Badge" />
-  <img src="https://shields.io" alt="Android Studio Badge" />
-
+  <img src="https://shields.io" alt="Google Colab" />
+  <img src="https://shields.io" alt="Android Studio" />
 </p>
 
 ---
@@ -46,8 +44,6 @@ I am a final-year Computing student at Strathmore University who builds machine 
 
 **[CBD-Matatu-Connect](https://github.com/emmanuelamor5/CBD-Matatu-Connect.git)** A web-based application designed to help Nairobi CBD commuters easily find matatus for their specific destinations, get weather updates, and report or recover lost and found items. It also empowers matatu drivers with a platform to post traffic and incident updates, improving the daily commuting experience.
 
-
-
 ---
 
 ## GitHub Stats
@@ -59,7 +55,7 @@ I am a final-year Computing student at Strathmore University who builds machine 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelamor5&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://herokuapp.com" alt="Contribution Streak Graph" />
 </p>
 
 ---
