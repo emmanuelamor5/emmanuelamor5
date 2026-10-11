@@ -63,7 +63,7 @@ I am a final-year Computing student at Strathmore University who builds machine 
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-amor-4306a9247">
+  <a href="www.linkedin.com/in/emmanuel-ochieng-4306a9247">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:emmanuelamor500@gmail.com">
