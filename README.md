@@ -28,34 +28,36 @@ I am a final-year Computing student at Strathmore University who builds machine 
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://shields.io" alt="React" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://shields.io" alt="Google Colab" />
-  <img src="https://shields.io" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 </p>
 
 ---
 
 ## Featured Work
 
-**[MTL-Nairobi](https://github.com/emmanuelamor5/nairobi-risk-mapping.git)** Parcel-level flood risk micro-zonation and structural deprivation assessment for Nairobi's informal settlements (Kibera, Mathare, Mukuru), combining an Attention U-Net (flood hazard) and GraphSAGE (structural deprivation) through a late-fusion policy decision engine, surfaced via an explainable-AI Folium dashboard.
+**[MTL-Nairobi](https://github.com/emmanuelamor5/nairobi-risk-mapping)** Parcel-level flood risk micro-zonation and structural deprivation assessment for Nairobi's informal settlements (Kibera, Mathare, Mukuru), combining an Attention U-Net (flood hazard) and GraphSAGE (structural deprivation) through a late-fusion policy decision engine, surfaced via an explainable-AI Folium dashboard.
 
-**[E-Wastehub Kenya](https://github.com/emmanuelamor5/E-WastehubKenya.git)** A modern Android application built to solve the electronic waste crisis in Kenya. By leveraging Firebase's real-time capabilities and Room's local persistence, the app provides a secure and seamless platform for users to resell, donate or dispose of gadgets responsibly.
+**[E-Wastehub Kenya](https://github.com/emmanuelamor5/E-WastehubKenya)** A modern Android application built to solve the electronic waste crisis in Kenya. By leveraging Firebase's real-time capabilities and Room's local persistence, the app provides a secure and seamless platform for users to resell, donate or dispose of gadgets responsibly.
 
-**[CBD-Matatu-Connect](https://github.com/emmanuelamor5/CBD-Matatu-Connect.git)** A web-based application designed to help Nairobi CBD commuters easily find matatus for their specific destinations, get weather updates, and report or recover lost and found items. It also empowers matatu drivers with a platform to post traffic and incident updates, improving the daily commuting experience.
+**[CBD-Matatu-Connect](https://github.com/emmanuelamor5/CBD-Matatu-Connect)** A web-based application designed to help Nairobi CBD commuters easily find matatus for their specific destinations, get weather updates, and report or recover lost and found items. It also empowers matatu drivers with a platform to post traffic and incident updates, improving the daily commuting experience.
+
+**[CampusView 3D](https://github.com/emmanuelamor5/campus-sketch)** Computer Graphics group project: SketchUp-referenced campus section rendered with a from-scratch C++17 pipeline (Bresenham, scanline fill, Bézier roads, clipping).
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelamor5&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelamor5&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&cache_seconds=1800" alt="GitHub Stats" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelamor5&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelamor5&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff&cache_seconds=1800" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Contribution Streak Graph" />
+  <img src="https://streak-stats.demolab.com/?user=emmanuelamor5&theme=dark&hide_border=true&background=0F0C29&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9" alt="GitHub Streak" />
 </p>
 
 ---
@@ -63,7 +65,7 @@ I am a final-year Computing student at Strathmore University who builds machine 
 ## Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/emmanuel-ochieng-4306a9247">
+  <a href="https://www.linkedin.com/in/emmanuel-ochieng-4306a9247">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:emmanuelamor500@gmail.com">
@@ -74,6 +76,3 @@ I am a final-year Computing student at Strathmore University who builds machine 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" alt="Footer banner" />
 </p>
-
-
-
