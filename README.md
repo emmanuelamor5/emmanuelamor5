@@ -50,14 +50,24 @@ I am a final-year Computing student at Strathmore University who builds machine 
 
 ## GitHub Stats
 
+<!--
+  Do NOT use include_all_commits=true on the public vercel.app host — it often
+  fails with "Could not fetch total commits" under rate limits.
+-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelamor5&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&cache_seconds=1800" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelamor5&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&ring_color=67e8f9" alt="GitHub Stats" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelamor5&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff&cache_seconds=1800" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelamor5&layout=compact&langs_count=6&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=emmanuelamor5&theme=dark&hide_border=true&background=0F0C29&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/emmanuelamor5?style=for-the-badge&logo=github&color=0f0c29" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/emmanuelamor5?affiliations=OWNER&style=for-the-badge&logo=github&color=203a43" alt="Stars" />
+  <img src="https://img.shields.io/badge/Repos-12-2c5364?style=for-the-badge&logo=github" alt="Public repos" />
 </p>
 
 ---
