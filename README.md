@@ -38,7 +38,7 @@ I am a final-year Computing student at Strathmore University who builds machine 
 
 ## Featured Work
 
-**[MTL-Nairobi](https://github.com/emmanuelamor5/nairobi-risk-mapping)** Parcel-level flood risk micro-zonation and structural deprivation assessment for Nairobi's informal settlements (Kibera, Mathare, Mukuru), combining an Attention U-Net (flood hazard) and GraphSAGE (structural deprivation) through a late-fusion policy decision engine, surfaced via an explainable-AI Folium dashboard.
+**[Nairobi Parcel Policy](https://github.com/emmanuelamor5/nairobi-parcel-policy)** Parcel-level flood risk micro-zonation and structural deprivation assessment for Nairobi's informal settlements (Kibera, Mathare, Mukuru), combining an Attention U-Net (flood hazard) and GraphSAGE (structural deprivation) through a late-fusion policy decision engine, surfaced via an explainable-AI Folium dashboard.
 
 **[E-Wastehub Kenya](https://github.com/emmanuelamor5/E-WastehubKenya)** A modern Android application built to solve the electronic waste crisis in Kenya. By leveraging Firebase's real-time capabilities and Room's local persistence, the app provides a secure and seamless platform for users to resell, donate or dispose of gadgets responsibly.
 
